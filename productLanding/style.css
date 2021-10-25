@@ -1,0 +1,37 @@
+body{
+    background-color: palegreen;
+    text-align: center;
+    
+    
+}
+
+
+h1{
+    color: lightslategray;
+    font-size: 50px;
+    font-family:cursive
+    
+}
+
+
+h2{
+    color: lightslategrey;
+    font-size: 40px;
+    font-family: cursive;
+}
+
+
+
+p {
+    color: lightslategrey;
+   font-size: 30px;
+   font-family: cursive;
+}
+
+img{
+    padding-top: 40px;
+    padding-right: 25px;
+    padding-bottom: 40px;
+    padding-left: 25px;
+    
+}
